@@ -1,2 +1,3 @@
-# InternAcademy
-This Repository contains all my work done at The Intern Academy as a Data Science Intern
+### InternAcademy
+This Repository contains all my work done at The Intern Academy in domain - Data Science and Machine learning 
+### Contributors - Ameya.N.Jajulwar
